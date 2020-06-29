@@ -1,0 +1,25 @@
+<!-- Header -->
+<header>
+  <div class="container">
+
+<div class = "ar_home">
+
+<a-scene embedded style="margin:0px; padding:0px;">
+  <a-assets>
+    <!-- Images. -->
+    <img id="city" src="{{ site.baseurl }}/img/360/360_Dragonfly.jpg">
+    
+  </a-assets>
+
+  <!-- 360-degree image. -->
+  <a-entity rotation="0 -90 0">
+  <a-sky id="image-360" radius="100" src="#city"></a-sky>
+ </a-entity>
+
+</a-scene>
+    
+    
+</div>
+
+  </div>
+</header>

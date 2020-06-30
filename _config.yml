@@ -1,7 +1,7 @@
 # Site settings
 title: MANHOLE
 email: your-email@domain.com
-baseurl: "/"
+baseurl: ""
 url: https://jayeshpillai.github.io/sitemanholevr/
 description: "Manhole - VR Film Experience"
 keywords: "your keywords, separated by commas"
